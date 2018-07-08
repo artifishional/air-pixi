@@ -1,0 +1,10 @@
+{
+  "name": "air-pixi",
+  "version": "1.0.0",
+  "main": "src/",
+  "author": "ai",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^5.0.0-alpha.3"
+  }
+}
